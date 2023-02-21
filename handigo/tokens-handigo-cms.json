@@ -432,7 +432,7 @@
         "type": "fontFamilies"
       }
     },
-    "fonts-size": {
+    "font-size": {
       "root": {
         "value": "16px",
         "type": "fontSizes",
@@ -798,7 +798,7 @@
       }
     },
     "letter-spacing": {
-      "zero": {
+      "none": {
         "value": "0",
         "type": "letterSpacing"
       }
